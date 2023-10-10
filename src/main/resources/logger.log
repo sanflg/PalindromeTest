@@ -1,0 +1,50 @@
+2023-10-10 15:18:45,974 [TestNG-test=Palindrom-1] INFO  org.example.PalindromeChecker - Word to check: peep
+2023-10-10 15:18:45,975 [TestNG-test=Palindrom-1] INFO  org.example.PalindromeChecker - Reversed word: peep
+2023-10-10 15:25:13,816 [main] INFO  org.example.PalindromeChecker - Word to check: abc ba
+2023-10-10 15:25:13,818 [main] INFO  org.example.PalindromeChecker - Reversed word: ab cba
+2023-10-10 15:25:13,819 [main] INFO  org.example.PalindromeChecker - Word to check: a2c211c2a
+2023-10-10 15:25:13,819 [main] INFO  org.example.PalindromeChecker - Reversed word: a2c112c2a
+2023-10-10 15:25:13,826 [main] INFO  org.example.PalindromeChecker - Word to check: abba
+2023-10-10 15:25:13,826 [main] INFO  org.example.PalindromeChecker - Reversed word: abba
+2023-10-10 15:25:13,826 [main] INFO  org.example.PalindromeChecker - Word to check: abcba
+2023-10-10 15:25:13,826 [main] INFO  org.example.PalindromeChecker - Reversed word: abcba
+2023-10-10 15:25:13,826 [main] INFO  org.example.PalindromeChecker - Word to check: a2c1c2a
+2023-10-10 15:25:13,827 [main] INFO  org.example.PalindromeChecker - Reversed word: a2c1c2a
+2023-10-10 15:25:13,827 [main] INFO  org.example.PalindromeChecker - Word to check: abba
+2023-10-10 15:25:13,827 [main] INFO  org.example.PalindromeChecker - Reversed word: abba
+2023-10-10 15:25:13,827 [main] INFO  org.example.PalindromeChecker - Word to check: abba
+2023-10-10 15:25:13,827 [main] INFO  org.example.PalindromeChecker - Reversed word: abba
+2023-10-10 15:25:13,827 [main] INFO  org.example.PalindromeChecker - Word to check: a
+2023-10-10 15:25:13,827 [main] INFO  org.example.PalindromeChecker - Reversed word: a
+2023-10-10 15:25:30,242 [main] INFO  org.example.PalindromeChecker - Word to check: abc ba
+2023-10-10 15:25:30,243 [main] INFO  org.example.PalindromeChecker - Reversed word: ab cba
+2023-10-10 15:25:30,244 [main] INFO  org.example.PalindromeChecker - Word to check: a2c211c2a
+2023-10-10 15:25:30,244 [main] INFO  org.example.PalindromeChecker - Reversed word: a2c112c2a
+2023-10-10 15:25:30,246 [main] INFO  org.example.PalindromeChecker - Word to check: abba
+2023-10-10 15:25:30,246 [main] INFO  org.example.PalindromeChecker - Reversed word: abba
+2023-10-10 15:25:30,246 [main] INFO  org.example.PalindromeChecker - Word to check: abcba
+2023-10-10 15:25:30,246 [main] INFO  org.example.PalindromeChecker - Reversed word: abcba
+2023-10-10 15:25:30,246 [main] INFO  org.example.PalindromeChecker - Word to check: a2c1c2a
+2023-10-10 15:25:30,246 [main] INFO  org.example.PalindromeChecker - Reversed word: a2c1c2a
+2023-10-10 15:25:30,246 [main] INFO  org.example.PalindromeChecker - Word to check: abba
+2023-10-10 15:25:30,246 [main] INFO  org.example.PalindromeChecker - Reversed word: abba
+2023-10-10 15:25:30,246 [main] INFO  org.example.PalindromeChecker - Word to check: abba
+2023-10-10 15:25:30,246 [main] INFO  org.example.PalindromeChecker - Reversed word: abba
+2023-10-10 15:25:30,247 [main] INFO  org.example.PalindromeChecker - Word to check: a
+2023-10-10 15:25:30,247 [main] INFO  org.example.PalindromeChecker - Reversed word: a
+2023-10-10 15:25:36,830 [TestNG-test=Palindrom-2] INFO  org.example.PalindromeChecker - Word to check: abba
+2023-10-10 15:25:36,829 [TestNG-test=Palindrom-1] INFO  org.example.PalindromeChecker - Word to check: abc ba
+2023-10-10 15:25:36,831 [TestNG-test=Palindrom-1] INFO  org.example.PalindromeChecker - Reversed word: ab cba
+2023-10-10 15:25:36,831 [TestNG-test=Palindrom-2] INFO  org.example.PalindromeChecker - Reversed word: abba
+2023-10-10 15:25:36,832 [TestNG-test=Palindrom-1] INFO  org.example.PalindromeChecker - Word to check: a2c211c2a
+2023-10-10 15:25:36,832 [TestNG-test=Palindrom-2] INFO  org.example.PalindromeChecker - Word to check: abcba
+2023-10-10 15:25:36,832 [TestNG-test=Palindrom-1] INFO  org.example.PalindromeChecker - Reversed word: a2c112c2a
+2023-10-10 15:25:36,832 [TestNG-test=Palindrom-2] INFO  org.example.PalindromeChecker - Reversed word: abcba
+2023-10-10 15:25:36,832 [TestNG-test=Palindrom-2] INFO  org.example.PalindromeChecker - Word to check: a2c1c2a
+2023-10-10 15:25:36,832 [TestNG-test=Palindrom-2] INFO  org.example.PalindromeChecker - Reversed word: a2c1c2a
+2023-10-10 15:25:36,832 [TestNG-test=Palindrom-2] INFO  org.example.PalindromeChecker - Word to check: abba
+2023-10-10 15:25:36,832 [TestNG-test=Palindrom-2] INFO  org.example.PalindromeChecker - Reversed word: abba
+2023-10-10 15:25:36,833 [TestNG-test=Palindrom-2] INFO  org.example.PalindromeChecker - Word to check: abba
+2023-10-10 15:25:36,833 [TestNG-test=Palindrom-2] INFO  org.example.PalindromeChecker - Reversed word: abba
+2023-10-10 15:25:36,833 [TestNG-test=Palindrom-2] INFO  org.example.PalindromeChecker - Word to check: a
+2023-10-10 15:25:36,833 [TestNG-test=Palindrom-2] INFO  org.example.PalindromeChecker - Reversed word: a
