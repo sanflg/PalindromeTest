@@ -8,13 +8,14 @@ public class PalindromeChecker {
     public static boolean isPalindrome(String wordToCheck) {
 
         String word = wordToCheck.trim();
+        String halfWord = word.substring(0, word.length()/2);
 
-        logger.info(String.format("Word to check: %s", word));
-        StringBuilder reversedWord = new StringBuilder();
-        for (int i = word.length() - 1; i >= 0; i--) {
-            reversedWord.append(word.charAt(i));
-        };
-        logger.info(String.format("Reversed word: %s", reversedWord));
-        return word.equalsIgnoreCase(reversedWord.toString());
+        logger.info(String.format("Word to check: %s.", word));
+        StringBuilder reversedHalfWord = new StringBuilder();
+        for (int i = word.length() -1; i >= word.length()/2 + word.length() % 2; i--) {
+            reversedHalfWord.append(word.charAt(i));
+        }
+        logger.info(String.format("Reversed word: %s.", reversedHalfWord));
+        return halfWord.equalsIgnoreCase(reversedHalfWord.toString());
     }
 }
