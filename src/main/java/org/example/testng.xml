@@ -1,7 +1,7 @@
 <?xml version = "1.0"encoding = "UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="TestNG" parallel="methods">
-    <test name="Palindrom">
+    <test name="Palindrome">
         <classes>
             <class name="org.example.TestPalindrome">
             </class>
